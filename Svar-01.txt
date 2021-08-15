@@ -24,3 +24,4 @@ På grafen kan man aflæse på x-aksen at den gennemsnitlige person vil kunne hu
 28 amerikanske soldater mistede livet - over 100 andre blev såret
 Ingeniøren skulle have valgt 1/4 tik (0,25 sek), 1/8 tik (0,125 sek), 1/16 tik (0,0625 sek)
 
+https://github.com/Philip160604/Philips-repository-2d1.git
