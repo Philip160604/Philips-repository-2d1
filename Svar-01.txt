@@ -1,0 +1,26 @@
+Philip 2d1
+
+1) Angiv seks 'CMD prompt' kommandoer du synes er vigtige,
+   med en beskrivelse af hvad de gør.
+
+1. "cd" - denne kommando gør så du kan rykke frem og tilbage mellem dine mapper, du kan navigere din computer.
+2. "." eller ".." - denne kommando gør så du kan gå en eller to mapper tilbage i den linje af mapper du har lavet
+3. "cls" - denne kommando gør så du kan fjerne alt teksten fra CMD prompten bortset fra den nyeste kommando
+4. "pilop" eller "pilned" - ikke en kommando som sådan, men ved at trykke på piltasterne kan du genbruge kommandoer som du havde skrevet før
+5. "mkdir" - denne kommando gør så du kan lave en ny mappe 
+6. "dir" - denne kommando gør så du kan se hvad du har liggende inde i din mappe
+
+
+2) I noten 'Hukommelse og glemsel' kan du se en graf.
+   Antag du har modtaget ny viden. Hvad kan 'du' forvente at kunne huske efter 2 dage er passeret ?
+På grafen kan man aflæse på x-aksen at den gennemsnitlige person vil kunne huske cirka 25% af den nye information man har fået. Derfor kan jeg forvente at efter 2 dage vil jeg have husket 25% af min nye viden.
+
+
+3) I noten 'Derfor dumper computere til matematik' omtales en episode under Golf krigen.
+   Hvor mange amerikanske soldater mistede livet under angrebet ?
+   Ingeniøren valgte tallet 0.1 som sekund-tik. 
+   Kan du angive et tal ingeniøren istedet skulle have valgt ? 
+
+28 amerikanske soldater mistede livet - over 100 andre blev såret
+Ingeniøren skulle have valgt 1/4 tik (0,25 sek), 1/8 tik (0,125 sek), 1/16 tik (0,0625 sek)
+
