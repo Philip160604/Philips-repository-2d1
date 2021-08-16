@@ -5,6 +5,8 @@ System.out.println("Hello, World! æøå ÆØÅ");
 
 println( 3.3 == 1.1 + 1.1 + 1.1 );
 Man skal huske på 0,1 ikke kan repræsenteres binært//
+Selve 10 tals systemet og flydende tal virker ikke//
+
 
 println( 0.3 == 0.1 + 0.1 + 0.1 );
 
