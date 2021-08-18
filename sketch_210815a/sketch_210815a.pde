@@ -1,4 +1,5 @@
-public static void main(String[] args) {
+public class Hello {
+
 System.out.println("Hello, World! æøå ÆØÅ");
 }
 //Dette virker fint
