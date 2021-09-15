@@ -15,8 +15,8 @@ Exercise:
     Hvilke to tal (der hver kan repræsenteres i computeren) ligger
     nærmest tallet 0.0 ?
     
-// 0.100000000000000005551
-// -0.100000000000000005551
+// 1.40129846432481707092e-45
+// -1.40129846432481707092e-45
 ***********************************************************************
 
 I de følgende opgaver benyttes siten: https://float.exposed
@@ -33,7 +33,7 @@ Exercise:
     Hvilke to tal (der hver kan repræsenteres i computeren) ligger
     nærmest tallet 0.0 ?
     
-// 0.100000001490116119385
-// -0.100000001490116119385
+// 4.94065645841246544177e-324
+// -4.94065645841246544177e-324
 
 // end
