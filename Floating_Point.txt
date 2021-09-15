@@ -1,0 +1,39 @@
+
+Læs først TJ 2.6 og 2.7
+
+I de følgende opgaver benyttes siten: https://float.exposed
+hvor du skal arbejde med datatypen Double (dvs. 64-bit).
+
+Exercise:
+    Tallet 0.1 kan ikke repræsenteres i 2-tal systemet i en computer !!!
+    Hvilke to tal (der hver kan repræsenteres i computeren) ligger
+    nærmest tallet 0.1 ?
+
+// 0.100000000000000005551
+
+Exercise:
+    Hvilke to tal (der hver kan repræsenteres i computeren) ligger
+    nærmest tallet 0.0 ?
+    
+// 0.100000000000000005551
+// -0.100000000000000005551
+***********************************************************************
+
+I de følgende opgaver benyttes siten: https://float.exposed
+hvor du skal arbejde med datatypen Float (dvs. 32-bit).
+
+Exercise:
+    Tallet 0.1 kan ikke repræsenteres i 2-tal systemet i en computer !!!
+    Hvilke to tal (der hver kan repræsenteres i computeren) ligger
+    nærmest tallet 0.1 ?
+
+// 0.100000001490116119385
+
+Exercise:
+    Hvilke to tal (der hver kan repræsenteres i computeren) ligger
+    nærmest tallet 0.0 ?
+    
+// 0.100000001490116119385
+// -0.100000001490116119385
+
+// end
